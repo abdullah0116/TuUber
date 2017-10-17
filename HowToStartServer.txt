@@ -1,0 +1,7 @@
+Abdullahs computer ip
+http://192.168.0.139:8080/index.html
+
+https://www.youtube.com/watch?v=oa9m8321_nw
+
+C:\Users\Bogron-PC\Desktop\TuUber\node_modules\http-server\bin
+node C:\Users\Bogron-PC\Desktop\TuUber\node_modules\http-server\bin
